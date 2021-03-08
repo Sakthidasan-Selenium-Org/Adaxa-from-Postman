@@ -1,0 +1,6 @@
+22:08:34.194 [TestNG-tests-1] INFO  testScripts.debClass - Logged into Google
+22:08:42.992 [TestNG-tests-1] INFO  testScripts.debClass - Navigation Bar is displayed
+22:08:42.992 [TestNG-tests-1] DEBUG testScripts.debClass - Debug message
+22:08:42.993 [TestNG-tests-1] WARN  testScripts.debClass - This is warning
+21:29:38.048 [TestNG-tests-1] INFO  resources.base - Successfully hit URL: http://168.119.226.211:8092/webui8/
+21:29:39.344 [TestNG-tests-1] INFO  testScripts.AssertStaging - Landed on Tenant Page Successfully
